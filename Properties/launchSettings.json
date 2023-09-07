@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CurrencyConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "deb3c5bbfb134bf79b0fa80dcfd1500f"
+    }
+  }
+}
